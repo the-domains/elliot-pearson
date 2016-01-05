@@ -1,28 +1,40 @@
-name: Elliot Pearson
-favicon: null
 layout_spectrum: 0.002966339234262705
-typography_spectrum: 0.17997961537912488
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.7281719893217087
-  lightness: 0.8032444450072944
-  saturation: 0.7694409182295203
-  rhythmicContrast: 0.19554738164879382
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.7694409182295203
+  lightness: 0.8032444450072944
+  brandStrength: 1
+  brandColors:
+    - '#43414B'
+    - '#806D54'
+    - '#FAB4A4'
+    - '#FFFFFC'
+    - '#8089A2'
+  rhythmicContrast: 0.1955473816487938
+typography_spectrum: 0.1799796153791249
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Elliot Pearson
