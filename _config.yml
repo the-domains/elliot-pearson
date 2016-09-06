@@ -19,6 +19,9 @@ analytics:
   twitter: null
   google: null
   facebook: null
+author:
+  name: Elliot Pearson
+  email: elliot.pearson@yahoo.co.uk
 name: Elliot Pearson
 cta:
   bucket: null
