@@ -1,8 +1,30 @@
-layout_spectrum: 0.002966339234262705
+typography_spectrum: 0.1799796153791249
+color:
+  saturation: 0.7694409182295203
+  lightness: 0.8032444450072944
+  brandStrength: 1
+  brandColors:
+    - '#43414B'
+    - '#806D54'
+    - '#FAB4A4'
+    - '#FFFFFC'
+    - '#8089A2'
+  rhythmicContrast: 0.1955473816487938
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.002966339234262705
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Elliot Pearson
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,26 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: ELLIOT PEARSON
 purpose: []
-color:
-  saturation: 0.7694409182295203
-  lightness: 0.8032444450072944
-  brandStrength: 1
-  brandColors:
-    - '#43414B'
-    - '#806D54'
-    - '#FAB4A4'
-    - '#FFFFFC'
-    - '#8089A2'
-  rhythmicContrast: 0.1955473816487938
-typography_spectrum: 0.1799796153791249
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Elliot Pearson
